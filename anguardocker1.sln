@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anguardocker1", "anguardocker1\anguardocker1.csproj", "{19F467C3-DFF8-47C1-A4E1-E326DDAA02EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F467C3-DFF8-47C1-A4E1-E326DDAA02EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F467C3-DFF8-47C1-A4E1-E326DDAA02EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F467C3-DFF8-47C1-A4E1-E326DDAA02EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F467C3-DFF8-47C1-A4E1-E326DDAA02EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6D0070-A501-429A-8B2B-778176BD8962}
+	EndGlobalSection
+EndGlobal
